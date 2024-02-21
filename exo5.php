@@ -1,4 +1,7 @@
 <?php
+// Exercice 5  : 
+// Écrire un programme qui trouve les éléments communs à deux tableaux d'entiers.
+
 echo "Quelle est la taille de votre tableau 1 : ";
 $t1 = intval(readline());
 $tableau1 = [];

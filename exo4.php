@@ -1,5 +1,8 @@
 
 <?php
+// Exercice 4  :
+// Écrire un programme qui compte le nombre de voyelles dans une chaîne de caractères présente dans un tableau.
+
 echo "Quelle est la taille de ton tableau : ";
 $t = intval(readline());
 

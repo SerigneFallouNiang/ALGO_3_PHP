@@ -1,4 +1,7 @@
 <?php
+// Exercice 8  : 
+// Écrire une fonction qui calcule la médiane d'un tableau d'entiers.
+
 echo "Quelle est la taille de ton tableau : ";
 $t = intval(readline());
 

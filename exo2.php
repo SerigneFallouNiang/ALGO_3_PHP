@@ -1,4 +1,6 @@
 <?php
+// Exercice 2  : 
+// Écrire une fonction qui supprime les éléments en double d'un tableau et renvoie le tableau sans doublons.
 
 echo "quelle  est la taille de votre taleau";
 $t = intval(readline());

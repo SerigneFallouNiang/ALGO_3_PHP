@@ -1,4 +1,7 @@
 <?php
+// Exercice 9 : 
+// Écrire un programme qui calcule la fréquence de chaque caractère dans une     chaîne de caractères.
+
 echo "Entrez une chaîne de caractères : ";
 $chaine = readline();
 $frequence = array();

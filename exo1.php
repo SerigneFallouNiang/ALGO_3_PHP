@@ -1,4 +1,7 @@
 <?php
+// Exercice 1  : 
+// Écrire un programme qui calcule le produit de tous les éléments d'un tableau d'entiers.
+
 $produit = 1;
 
 echo "Quelle est la taille de votre tableau : ";

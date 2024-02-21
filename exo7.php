@@ -1,6 +1,6 @@
 <?php
-
-
+// Exercice 7  : 
+// Écrire un programme qui prend un tableau de chaînes de caractères et crée une nouvelle chaîne en concaténant tous les éléments.
 echo "Entrez la taille de votre tableau : ";
 $n = intval(readline());
 

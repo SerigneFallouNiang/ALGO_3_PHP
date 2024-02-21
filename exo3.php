@@ -1,4 +1,6 @@
 <?php
+// Exercice 3  : 
+// Implémenter un algorithme pour faire une rotation à droite d'un tableau d'un certain nombre de positions.
 function rotationDroite($tableau, $positions) {
     $n = count($tableau);
     $tableauRotated = array();
