@@ -8,7 +8,6 @@ function poserQuestion($question) {
     $reponse = strtolower(trim(readline())); // Lecture de la réponse et suppression des espaces inutiles
     return $reponse;
 }
-
 // Poser les questions
 $reponse1 = poserQuestion("Avez-vous noté une perte ou une forte diminution de votre goût ou de votre odorat ces derniers jours ?");
 $reponse2 = poserQuestion("Avez-vous un mal de gorge ou des douleurs musculaires ou des courbatures inhabituelles ou des maux de tête inhabituels ces derniers jours ?");
